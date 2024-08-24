@@ -8,14 +8,14 @@ I contribute to an accessible and sustainable academia by advocating for Open Sc
 + Founding member of [Lili's Proto Lab](http://www.uu.nl/lpl)
 + Open Science Lead at [Klimaatonderzoek Initiatief Nederlands](http://www.hetkin.nl/)
 + Associate Editor at [HardwareX](https://www.hardware-x.com/)
-+ Bestuurlid van [De Jonge Akademie](https://www.dejongeakademie.nl/nl).
++ Bestuurlid  van [De Jonge Akademie](https://www.dejongeakademie.nl/nl). (Board member at The Young Academy of KNAW).
 
 ###  Open-science projects 
 
 🔭 I’m currently working on 
 + Building a [FAIR Battery](https://github.com/SanliFaez/FAIR-Battery)
-+ A portable potentiodynamic microscope
-+ A course on Open Science for Physicist
++ A [portable potentiodynamic microscope](https://github.com/SanliFaez/elchemi)
++ A course on [Open Science for Physicist](https://github.com/SanliFaez/OS4Physicists)
 + Low-field MRI for education
 
 ### Personal 
