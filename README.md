@@ -16,7 +16,7 @@ I contribute to an accessible and sustainable academia by advocating for Open Sc
 + Building a [FAIR Battery](https://github.com/SanliFaez/FAIR-Battery)
 + A [portable potentiodynamic microscope](https://github.com/SanliFaez/elchemi)
 + A course on [Open Science for Physicist](https://github.com/SanliFaez/OS4Physicists)
-+ Low-field MRI for education
++ [Low-field MRI for education](www.osii.nl)
 
 ### Personal 
 - ⚡ Fun fact: I play tonbak and hang drum (beginner)
